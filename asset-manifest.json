@@ -1,14 +1,14 @@
 {
-  "main.css": "/github.io/react-complete-crud-todo-app/static/css/main.3f83a73d.chunk.css",
-  "main.js": "/github.io/react-complete-crud-todo-app/static/js/main.8ae16a00.chunk.js",
-  "main.js.map": "/github.io/react-complete-crud-todo-app/static/js/main.8ae16a00.chunk.js.map",
-  "static/js/1.a915e593.chunk.js": "/github.io/react-complete-crud-todo-app/static/js/1.a915e593.chunk.js",
-  "static/js/1.a915e593.chunk.js.map": "/github.io/react-complete-crud-todo-app/static/js/1.a915e593.chunk.js.map",
-  "runtime~main.js": "/github.io/react-complete-crud-todo-app/static/js/runtime~main.c96b52d2.js",
-  "runtime~main.js.map": "/github.io/react-complete-crud-todo-app/static/js/runtime~main.c96b52d2.js.map",
-  "static/media/loading.gif": "/github.io/react-complete-crud-todo-app/static/media/loading.1b1a27ca.gif",
-  "static/css/main.3f83a73d.chunk.css.map": "/github.io/react-complete-crud-todo-app/static/css/main.3f83a73d.chunk.css.map",
-  "index.html": "/github.io/react-complete-crud-todo-app/index.html",
-  "precache-manifest.f77096f299a861739bba744b1adf9945.js": "/github.io/react-complete-crud-todo-app/precache-manifest.f77096f299a861739bba744b1adf9945.js",
-  "service-worker.js": "/github.io/react-complete-crud-todo-app/service-worker.js"
+  "main.css": "/react-complete-crud-todo-app/static/css/main.3f83a73d.chunk.css",
+  "main.js": "/react-complete-crud-todo-app/static/js/main.34e26652.chunk.js",
+  "main.js.map": "/react-complete-crud-todo-app/static/js/main.34e26652.chunk.js.map",
+  "static/js/1.a915e593.chunk.js": "/react-complete-crud-todo-app/static/js/1.a915e593.chunk.js",
+  "static/js/1.a915e593.chunk.js.map": "/react-complete-crud-todo-app/static/js/1.a915e593.chunk.js.map",
+  "runtime~main.js": "/react-complete-crud-todo-app/static/js/runtime~main.58d5557c.js",
+  "runtime~main.js.map": "/react-complete-crud-todo-app/static/js/runtime~main.58d5557c.js.map",
+  "static/media/loading.gif": "/react-complete-crud-todo-app/static/media/loading.1b1a27ca.gif",
+  "static/css/main.3f83a73d.chunk.css.map": "/react-complete-crud-todo-app/static/css/main.3f83a73d.chunk.css.map",
+  "index.html": "/react-complete-crud-todo-app/index.html",
+  "precache-manifest.585a75cf53a244bac073ba39cb43f5f7.js": "/react-complete-crud-todo-app/precache-manifest.585a75cf53a244bac073ba39cb43f5f7.js",
+  "service-worker.js": "/react-complete-crud-todo-app/service-worker.js"
 }
