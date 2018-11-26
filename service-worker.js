@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "%20//akfred/github.com.io/react-complete-crud-todo-app/precache-manifest.9d6215d6d366f1179bd1e0ed2d8c2b43.js"
+  "/github.com.io/react-complete-crud-todo-app/precache-manifest.f88e802b69f1479b2ded6d71604d7caa.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("%20//akfred/github.com.io/react-complete-crud-todo-app/index.html", {
+workbox.routing.registerNavigationRoute("/github.com.io/react-complete-crud-todo-app/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
